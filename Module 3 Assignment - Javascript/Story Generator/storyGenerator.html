@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Ian Abad">
+    <link rel="stylesheet" href="assets/style.css" media="all">
+    <title>Story Generator</title>
+  </head>
+
+  <body>
+    <main>
+        <section id="initialPage">
+            <header>
+                <h1>Story Generator</h1>
+            </header>
+            <p>Enter appropriate valies in all of the text boxes. Then click the <span id="tahomaDone">Done</span> to generate a story with your entered values plugged into it.</p>
+
+            <form id='storyForm'>
+                <label for="noun">noun:</label>
+                <input type="text" name="noun" id="noun">
+                    <br>
+                <label for="past-tense-verb1">past tense verb:</label>
+                <input type="text" name="past-tense-verb1" id="past-tense-verb1">
+                    <br>
+                <label for="adjective1">adjective:</label>
+                <input type="text" name="adjective2" id="adjective2">
+                    <br>
+                <label for="past-tense-verb2">past tense verb:</label>
+                <input type="text" name="past-tense-verb2" id="past-tense-verb2">
+                    <br>
+                <label for="adjective2">adjective:</label>
+                <input type="text" name="adjective2" id="adjective2">
+                <br>
+                <br>
+                <input type="button" value="done" id="done" onclick="doneButton(this.form);">
+                <input type="reset" value="reset" id="reset"> 
+            </form>
+        </section>
+
+        <section id="generatedStory">
+            <p class=comicSans id="story">It was a dark and stormy night. A shot rang out! A <span id="slotOne"></span> slammed. 
+                The maid <span id="slotTwo"></span>. Suddenly, a <span id="slotThree"></span> ship appeared on the horizon!
+                While millions of people <span id="slotFour"></span>, the king live in luxury. Meanwhile, on a <span id="slotFive"></span>
+                farm in Kansas, a boy was growing up
+            </p>
+            <p class=comicSans>The End</p>
+            <br>
+            <input type="button" value="Return" onclick="returnButton();">
+        </section>
+
+    </main>
+
+    <script src="assets/storyGenerator.js"></script>
+
+  </body>
+</html>

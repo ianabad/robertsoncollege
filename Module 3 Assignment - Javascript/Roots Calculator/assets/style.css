@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+/* To make sure that there's no outline in the input box */
+input[type="number"] {
+    outline: none
+}
+
+/* To fulfill the requirement of having the border when typing an invalid value */
+input[type="number"]:focus:invalid {
+    border-color: red;
+}
+
+/* - this is not needed because of JS script condition
+input[type="number"]:invalid {
+    border-color: red;
+}
+*/ 

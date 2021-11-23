@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+/* Text Box */
+
+form.textBox input {
+    max-width: 30px;
+}
+
+/* Compass Table */
+
+.compassTable {
+    display: table;
+    border-spacing: 20px;
+}
+
+/* Compass Table - Row */
+
+.row {
+    display: table-row;
+}
+
+.row > * {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 40px;
+}
+
+/* Buttons */ 
+.row > input {
+    color: darkblue;
+}
+
+#topButton {
+    transform: rotate(-45deg);
+}
+
+#bottomButton {
+    transform: rotate(135deg);
+}
+
+/* Heading */
+.row > h3 {
+    color: red;
+}

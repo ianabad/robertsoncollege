@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+/* Hidding the Generated Story 'Page'*/
+section#generatedStory {
+    display: none;
+}
+
+/* Form Format */
+form {
+    width: 290px;
+    min-width: 290px;
+    margin-top: 20px;
+}
+
+form > label, form > input[type=text] {
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+form > label {
+    width: 35%;
+    text-align: right;
+    margin-right: 5px;
+}
+
+/* Fonts */
+#tahomaDone {
+    font-family: "Tahoma";
+}
+
+.comicSans {
+    font-family: "Comic Sans MS";
+    color: blue;
+    font-size: 18px;
+}
+
+.red {
+    color:red;
+}
