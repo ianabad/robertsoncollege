@@ -1,0 +1,8 @@
+C:\Users\ianch\source\repos\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\ianch\source\repos\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\ianch\source\repos\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\ianch\source\repos\Shapes\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\Users\ianch\source\repos\Shapes\Shapes\obj\Debug\Shapes.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianch\source\repos\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\ianch\source\repos\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\ianch\source\repos\Shapes\Shapes\obj\Debug\Shapes.pdb
