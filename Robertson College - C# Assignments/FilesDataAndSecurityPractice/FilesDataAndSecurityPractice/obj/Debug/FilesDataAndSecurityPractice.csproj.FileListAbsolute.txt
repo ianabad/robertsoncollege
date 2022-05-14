@@ -1,0 +1,8 @@
+C:\Users\ianch\source\repos\FilesDataAndSecurityPractice\FilesDataAndSecurityPractice\bin\Debug\FilesDataAndSecurityPractice.exe.config
+C:\Users\ianch\source\repos\FilesDataAndSecurityPractice\FilesDataAndSecurityPractice\bin\Debug\FilesDataAndSecurityPractice.exe
+C:\Users\ianch\source\repos\FilesDataAndSecurityPractice\FilesDataAndSecurityPractice\bin\Debug\FilesDataAndSecurityPractice.pdb
+C:\Users\ianch\source\repos\FilesDataAndSecurityPractice\FilesDataAndSecurityPractice\obj\Debug\FilesDataAndSecurityPractice.csproj.AssemblyReference.cache
+C:\Users\ianch\source\repos\FilesDataAndSecurityPractice\FilesDataAndSecurityPractice\obj\Debug\FilesDataAndSecurityPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianch\source\repos\FilesDataAndSecurityPractice\FilesDataAndSecurityPractice\obj\Debug\FilesDataAndSecurityPractice.csproj.CoreCompileInputs.cache
+C:\Users\ianch\source\repos\FilesDataAndSecurityPractice\FilesDataAndSecurityPractice\obj\Debug\FilesDataAndSecurityPractice.exe
+C:\Users\ianch\source\repos\FilesDataAndSecurityPractice\FilesDataAndSecurityPractice\obj\Debug\FilesDataAndSecurityPractice.pdb
